@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eppo-server-sdk (3.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eppo-server-sdk (~> 3.2.2)
+
+BUNDLED WITH
+   2.5.22
